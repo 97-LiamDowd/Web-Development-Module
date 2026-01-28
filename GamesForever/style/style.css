@@ -5,10 +5,7 @@ html{
 body{
     background-color: orange;
     width: 80%;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+    
 }
 
 p{
@@ -26,4 +23,18 @@ h1{
     padding: 10px;
     background-color: black;
     border: 5px;
+}
+
+.Wingdings {
+    font-family: Wingdings;
+    
+}
+
+footer{
+    margin-bottom: 5%;
+    margin-top: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    border: 2px solid black;
+    text-align: center;
 }
