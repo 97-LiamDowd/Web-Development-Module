@@ -1,0 +1,29 @@
+html{
+    background-color: grey;
+}
+
+body{
+    background-color: orange;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+p{
+    color: blue;
+    
+}
+
+h1{
+    color: gold;
+    background-color: darkred;
+    
+}
+
+.div1{
+    padding: 10px;
+    background-color: black;
+    border: 5px;
+}
